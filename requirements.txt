@@ -2,5 +2,5 @@ playwright
 pandas
 openpyxl
 python-dotenv
-bs4
+beautifulsoup4
 tqdm

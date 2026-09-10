@@ -27,3 +27,8 @@ Catatan:
 
 
 - lakukan perekaman elemen dan teknologi target dahulu agar kamu tahu step step yang akan saya lakukan sebelum kamu tulis kode
+
+
+- saya ingin jumlah halaman menyesuaikan secara otomatis berdasarkan jumlah seluruh data
+- jika di stop ketika berjalan berikan opsi lanjutkan selain mode normal dan retry
+- jadikan ini bejalan lebih cepat dengan beberapa thread/proses multiple

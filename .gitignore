@@ -1,4 +1,7 @@
 .env
-venv
-data_siswa_emis_old.xlsx
 auth.json
+progress_backup.json
+*.xlsx
+venv/
+__pycache__/
+debug_page*.png

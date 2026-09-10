@@ -3,4 +3,3 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 -m playwright install --with-deps firefox
-python3 scraper.py
